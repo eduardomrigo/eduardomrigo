@@ -1,7 +1,7 @@
 <a href="https://ibb.co/D5C0sB3"><img width="100%" src="https://i.ibb.co/cDF4MWz/capa-git.png" alt="capa-git" border="0"></a>
 
 
-### Ola, sou o Eduardo 👋
+### Ola, sou o Eduardo 👋 | Hi, i'm Eduardo 👋
 - 🔭 Hoje trabalho com Front-End, Design UI/UX, Prototipação de Apps e Sites
 - 📫 Meu Email : eduardorigom@gmail.com
  <div>
