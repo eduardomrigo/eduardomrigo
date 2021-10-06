@@ -1,8 +1,5 @@
 <a href="https://ibb.co/D5C0sB3"><img width="100%" src="https://i.ibb.co/cDF4MWz/capa-git.png" alt="capa-git" border="0"></a>
 
-
-<div class="container" style="display:flex">
- <div class="left">
   ### Olá, sou o Eduardo 👋 | Hi, i'm Eduardo 👋
 - 🔭 Hoje trabalho com Front-End, Design UI/UX, Prototipação de Apps e Sites
 - 📫 Meu Email : eduardorigom@gmail.com
@@ -10,11 +7,7 @@
   <a href="https://github.com/eduardomrigo">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardomrigo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
-  </div>
-  <div class="right">
-<a href="https://app.daily.dev/eduardomrigo"><img src="https://api.daily.dev/devcards/94a45572156b4e74bcdfd0a3f2a45cb2.png?r=xz1" width="400" alt="Eduardo Moraes Rigo's Dev Card"/></a>
-   <div>
-   </div>
+
   <h2>Linguagens mais utilizadas:</h2>
   <div style="display: inline_block"><br>
   <img align="center" alt="Eduardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
