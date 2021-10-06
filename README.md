@@ -1,5 +1,6 @@
 <a href="https://ibb.co/D5C0sB3"><img width="100%" src="https://i.ibb.co/cDF4MWz/capa-git.png" alt="capa-git" border="0"></a>
 
+<a href="https://app.daily.dev/eduardomrigo"><img src="https://api.daily.dev/devcards/94a45572156b4e74bcdfd0a3f2a45cb2.png?r=xz1" width="400" alt="Eduardo Moraes Rigo's Dev Card"/></a>
 
 ### Olá, sou o Eduardo 👋 | Hi, i'm Eduardo 👋
 - 🔭 Hoje trabalho com Front-End, Design UI/UX, Prototipação de Apps e Sites
