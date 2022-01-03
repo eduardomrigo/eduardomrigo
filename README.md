@@ -1,12 +1,16 @@
 <a href="https://ibb.co/D5C0sB3"><img width="100%" src="https://i.ibb.co/cDF4MWz/capa-git.png" alt="capa-git" border="0"></a>
+<hr>
+<h1>Olá, sou o Eduardo 👋 | Hi, i'm Eduardo 👋</h1>
 
-  ### Olá, sou o Eduardo 👋 | Hi, i'm Eduardo 👋
-- 🔭 Hoje trabalho com Front-End, Design UI/UX, Prototipação de Apps e Sites
-- 📫 Meu Email : eduardorigom@gmail.com
- <div>
-  <a href="https://github.com/eduardomrigo">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardomrigo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
+🌎 Sou Desenvolvedor Front-End e UX/UI Designer.
+
+🦄 Habilidades: HTML, CSS, JavaScript, Sass, Tailwind CSS, ReactJS, Next.js, PHP, Angular, MySQL, NodeJS e Styled Components.
+
+💼 Ferramentas: VSCode, Figma, Notion, e GitHub.
+
+💌 Me envie uma mensagem para orçamentos ou trocar uma idéia :)
+
+<hr>
 
   <h2>Linguagens mais utilizadas:</h2>
   <div style="display: inline_block"><br>
