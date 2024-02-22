@@ -1,14 +1,12 @@
 <a href="https://ibb.co/D5C0sB3"><img width="100%" src="https://i.ibb.co/cDF4MWz/capa-git.png" alt="capa-git" border="0"></a>
 <hr>
-<h1>Olá, sou o Eduardo 👋 | Hi, i'm Eduardo 👋</h1>
+<h1>Olá, sou o Eduardo 👋</h1>
 
-🌎 Sou Desenvolvedor Front-End e UX/UI Designer.
+Desenvolvedor frontend com conhecimento em design. Tenho mais de 7 anos de experiência na área da programação, com conhecimento nas principais stacks utilizadas no mercado, construo websites, aplicações e penso em soluções para todos os tipos de projetos
 
-🦄 Habilidades: HTML, CSS, JavaScript, Sass, Tailwind CSS, ReactJS, Next.js, PHP, Angular, MySQL, NodeJS e Styled Components.
+React.JS | Typescript | Vue.JS | Angular | Node.JS | Redux.JS | Jest | Tailwind CSS | PostgreSQL | GraphQL | Laravel | Express | AWS | Figma | Framer | Git
 
-💼 Ferramentas: VSCode, Figma, Notion, e GitHub.
-
-💌 Me envie uma mensagem para orçamentos ou trocar uma idéia :)
+www.eduardev.com
 
 <hr>
 
