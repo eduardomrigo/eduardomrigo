@@ -1,5 +1,4 @@
-<a href="https://ibb.co/D5C0sB3"><img width="100%" src="https://i.ibb.co/cDF4MWz/capa-git.png" alt="capa-git" border="0"></a>
-<hr>
+
 <!--![Hi](https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/hi.gif)-->
 <h1>
  ✌<br>
