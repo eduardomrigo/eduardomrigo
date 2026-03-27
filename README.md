@@ -8,27 +8,32 @@
 </h1>
 
 <p>
-    <🎯 /> Atualmente trabalho na <a href="https://www.govone.digital/">GOVONE Digital</a> como Desenvolvedor Frontend
+    <🎯 /> Atualmente atuo na [GOVONE Digital](https://www.govone.digital/), desenvolvendo e evoluindo interfaces modernas em produção 
     <br>
-    <☕️‍ /> Sempre desevolvendo uns projetinhos bacanas
+    <💻 /> +9 anos de experiência construindo aplicações web, incluindo microSaaS e plataformas governamentais  
     <br>
-    <🌱 /> Escrevo alguns artigos no Medium, Hashnote e Dev.to
+    <🚀 /> Atuação também em backend e arquitetura, trabalhando com APIs, mensageria e integrações  
     <br>
-    <🍺 /> Além da programação, me interesso por jogos, finanças e desmontar eletrônicos.
+    <📝 /> Blog: https://eduardev.com/blog  
 </p>
 
 ### Tecnologias com que trabalho:
 
 ```json
 {
-  "frontend": ["typescript", "react", "next.js", "css|tailwindcss|mui", "storybook"],
-  "backend": ["typescript", "nodejs", "Firebase", "mongodb|postgres|prisma"],
-  "ops@alpha": ["linux", "bash|zx", "docker", "pm2", "CI/CD", "ssh", "zsh", "git"],
+  "frontend": ["TypeScript", "React", "Next.js", "TailwindCSS | MUI", "Storybook"],
+  "backend": ["Python", "Django", "Node.js"],
+  "database": ["PostgreSQL", "MongoDB"],
+  "messaging": ["RabbitMQ"],
+  "infra": ["Docker", "Linux", "CI/CD", "SSH", "Git", "Bash | Zsh"]
+
 }
 ```
 
 ### ― Até! 👋
 
 <br>
- 
+
+<i>descrição atualizada em: 27/03/2026</i>
+
 </div>
