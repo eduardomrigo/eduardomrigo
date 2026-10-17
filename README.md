@@ -8,9 +8,8 @@
 
 Senior Software Engineer com 8 anos de experiência em produtos SaaS e sistemas corporativos. Atuo do front-end ao back-end, com interfaces em Next.js e APIs em Python e Django, e uso IA no dia a dia para planejar, desenvolver e revisar código.
 
-|        |                                                                                      |
-| :----: | ------------------------------------------------------------------------------------ |
 | `</>`  | Senior Software Engineer [@Equanimüs](https://www.equanimus.com.br/)                 |
+| :----: | ------------------------------------------------------------------------------------ |
 |  `◷`   | Buenos Aires · São Paulo · GMT-3                                                      |
 |  `@`   | [eduardorigom@gmail.com](mailto:eduardorigom@gmail.com)                              |
 |  `↗`   | [eduardev.com](https://eduardev.com) · [blog](https://eduardev.com/blog) · [linkedin](https://www.linkedin.com/in/eduardomrigo/) |
