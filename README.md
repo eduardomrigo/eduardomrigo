@@ -16,20 +16,20 @@ Senior Software Engineer com 8 anos de experiência em produtos SaaS e sistemas 
 
 ### Experiência
 
-```text
-Equanimüs                                        Brasil · Remoto  ●
-├─ Senior Software Engineer                   09/2026 – atual
-│    Centro Pronto (governo de Moçambique, com a VFS Global) e
-│    plataformas de governo digital para estados brasileiros
-└─ Frontend Developer                         03/2024 – 09/2026
+**[Equanimüs](https://www.equanimus.com.br/)** · Brasil, remoto
 
-Grumft                                           São Paulo
-└─ Software Developer                         01/2022 – 12/2023
+- **Senior Software Engineer** · `09/2026 – atual`  
+  Full stack no Centro Pronto, plataforma de atendimento ao cidadão para o governo de Moçambique em parceria com a VFS Global, e em plataformas de governo digital para estados brasileiros.
+- **Frontend Developer** · `03/2024 – 09/2026`
 
-GOIDEA                                           São Paulo
-├─ Analista de Sistemas                       09/2019 – 02/2022
-└─ Assistente de Mídia                        05/2018 – 09/2019
-```
+**[Grumft](https://grumft.com/)** · São Paulo
+
+- **Software Developer** · `01/2022 – 12/2023`
+
+**[GOIDEA](https://goidea.com.br/)** · São Paulo
+
+- **Analista de Sistemas** · `09/2019 – 02/2022`
+- **Assistente de Mídia** · `05/2018 – 09/2019`
 
 ### Stack
 
